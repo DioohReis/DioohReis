@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DioohReis">
-    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="profile views" />
+    <img src="(https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="profile views)" />
   </a>
   <a href="https://github.com/DioohReis?tab=followers">
     <img src="https://img.shields.io/github/followers/DioohReis?label=Seguidores&style=for-the-badge" alt="followers" />
