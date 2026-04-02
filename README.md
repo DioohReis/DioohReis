@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Hello!%20I'm%20Diogo%20Reis%20🌙&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20in%20Progress&descAlignY=68&color=0:02111b,50:0b2f4f,100:114b5f" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Diogo%20Reis%20🌙&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:03111f,50:0a2a43,100:103b52" />
 </div>
 
 <h1 align="center">💻 Welcome to my GitHub</h1>
@@ -23,17 +23,36 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="52%">
+
 ## 🚀 About Me
 
-<img align="right" width="430" src="assets/dark-souls.gif" alt="Dark Souls GIF" />
-
-I am a Systems Analysis and Development student, passionate about technology, software development, and problem-solving.
+I am a **Systems Analysis and Development** student, passionate about technology, software development, and problem-solving.
 
 I have hands-on experience with **Java, Spring Boot, databases, and web development**, building academic and personal projects focused on organization, logic, and continuous improvement.
 
 Currently, I am evolving into a **Fullstack Developer**, integrating backend and frontend to build complete and scalable applications.
 
-<br><br><br><br><br><br><br>
+<br>
+
+## 📈 Currently Learning
+
+- Advanced Java and Spring Boot  
+- REST APIs and best practices  
+- Database design and modeling  
+- Modern frontend and React  
+- Fullstack architecture  
+
+   </td>
+   <td valign="top" width="48%" align="center">
+
+<img width="100%" src="assets/dark-souls.gif" alt="Dark Souls GIF" />
+
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,29 +61,33 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 <div align="center">
 
 ### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" />
+
+<br><br>
 
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" />
+
+<br><br>
 
 ### Database & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" />
-<img width="18" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="52" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" />
 
 </div>
 
@@ -72,7 +95,7 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 
 ## 📌 Featured Projects
 
-<table align="center">
+<table>
   <tr>
     <td width="33%" valign="top">
       <h3>📅 Scheduling System</h3>
@@ -117,20 +140,6 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 
 ---
 
-## 📈 Currently Learning
-
-<div align="center">
-
-| Learning Now | Learning Now |
-|---|---|
-| Advanced Java and Spring Boot | Modern frontend and React |
-| REST APIs and best practices | Fullstack architecture |
-| Database design and modeling | Scalable application structure |
-
-</div>
-
----
-
 ## 🌐 Contact
 
 <div align="center">
@@ -151,5 +160,5 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:02111b,50:0b2f4f,100:114b5f" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:03111f,50:0a2a43,100:103b52" />
 </div>
