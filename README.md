@@ -37,7 +37,8 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 
 <br>
 
-## 📈 Currently Learning
+## 📈 Currently Learning!
+
 
 - Advanced Java and Spring Boot  
 - REST APIs and best practices  
@@ -47,6 +48,9 @@ Currently, I am evolving into a **Fullstack Developer**, integrating backend and
 
    </td>
    <td valign="top" width="48%" align="center">
+![Dark Souls Sword GIF by BANDAI NAMCO Entertainment](https://github.com/user-attachments/assets/38fb51d4-7565-4593-a8fc-60c7b5ba8d0e)
+
+![Dark Souls Boss GIF by BANDAI NAMCO Entertainment](https://github.com/user-attachments/assets/06787fec-8bda-4357-826c-90bafe3f8d8a)
 
 <img width="100%" src="assets/dark-souls.gif" alt="Dark Souls GIF" />
 
