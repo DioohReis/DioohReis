@@ -1,45 +1,45 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá!%20Eu%20sou%20Diogo%20Reis%20🌙&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20em%20formação&descAlignY=62&color=0:0f2027,50:203a43,100:2c5364" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hello!%20I'm%20Diogo%20Reis%20🌙&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:0f2027,50:203a43,100:2c5364" />
 </div>
 
-<h1 align="center">💻 Bem-vindo ao meu GitHub</h1>
+<h1 align="center">💻 Welcome to my GitHub</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas - FIAP</strong><br>
-  Focado em <strong>Java, Spring Boot, APIs REST e desenvolvimento Fullstack</strong>
+  <strong>Systems Analysis and Development Student - FIAP</strong><br>
+  Focused on <strong>Java, Spring Boot, REST APIs and Fullstack Development</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/DioohReis">
-    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://github.com/DioohReis?tab=followers">
-    <img src="https://img.shields.io/github/followers/DioohReis?label=Seguidores&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/DioohReis?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/DioohReis?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-<h2 align="left">🚀 Sobre mim</h2>
+<h2 align="left">🚀 About Me</h2>
 
 <img align="right" height="240" style="margin-left:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pkbXN0NmNvbHFuZmRqeWpmaW9xZW80b25reHc0cnYwZzNwaDFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif" alt="Dark Souls Bonfire"/>
 
 <p align="left">
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.<br><br>
+I am a Systems Analysis and Development student, passionate about technology, software development, and problem-solving.<br><br>
 
-Tenho experiência prática com <strong>Java, Spring Boot, banco de dados e desenvolvimento web</strong>, construindo projetos acadêmicos, pessoais e aplicações com foco em organização, lógica e evolução contínua.<br><br>
+I have hands-on experience with <strong>Java, Spring Boot, databases, and web development</strong>, building academic and personal projects focused on organization, logic, and continuous improvement.<br><br>
 
-Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstack</strong>, criando soluções completas, bem estruturadas e alinhadas com o mercado.
+Currently, I am evolving into a <strong>Fullstack Developer</strong>, integrating backend and frontend to build complete and scalable applications.
 </p>
 
 <br><br>
 
 ---
 
-<h2 align="left">🛠️ Stack principal</h2>
+<h2 align="left">🛠️ Main Stack</h2>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
 
-### Banco de Dados e Ferramentas
+### Database & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
@@ -72,23 +72,23 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 
 ---
 
-<h2 align="left">📌 Projetos em destaque</h2>
+<h2 align="left">📌 Featured Projects</h2>
 
 <div align="left">
   <ul>
     <li>
-      <strong>📅 Sistema de Agendamento</strong><br>
-      API REST desenvolvida com Spring Boot para gerenciamento de horários e organização de atendimentos.
+      <strong>📅 Scheduling System</strong><br>
+      REST API built with Spring Boot for managing appointments and schedules.
     </li>
     <br>
     <li>
-      <strong>🗄️ Projetos com Banco de Dados</strong><br>
-      Modelagem, consultas SQL, integração com sistemas e apoio em soluções Java.
+      <strong>🗄️ Database Projects</strong><br>
+      Data modeling, SQL queries, and backend integration with Java systems.
     </li>
     <br>
     <li>
-      <strong>🌐 Evolução Fullstack</strong><br>
-      Projetos integrando backend e frontend, com foco em aplicações completas e escaláveis.
+      <strong>🌐 Fullstack Journey</strong><br>
+      Backend and frontend integration focused on building real-world applications.
     </li>
   </ul>
 </div>
@@ -110,7 +110,7 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 
 ---
 
-<h2 align="center">🎮 Pacman Contribution Graph</h2>
+<h2 align="center">🎮 Contribution Activity</h2>
 
 <div align="center">
   <picture>
@@ -121,19 +121,19 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 
 ---
 
-<h2 align="left">📈 Atualmente estudando</h2>
+<h2 align="left">📈 Currently Learning</h2>
 
 <p align="left">
-🔹 Java e Spring Boot avançado<br>
-🔹 APIs REST e boas práticas<br>
-🔹 Banco de dados e modelagem<br>
-🔹 Frontend moderno e evolução para React<br>
-🔹 Estruturação de projetos Fullstack
+🔹 Advanced Java and Spring Boot<br>
+🔹 REST APIs and best practices<br>
+🔹 Database design and modeling<br>
+🔹 Modern frontend and React<br>
+🔹 Fullstack architecture
 </p>
 
 ---
 
-<h2 align="left">🌐 Contato</h2>
+<h2 align="left">🌐 Contact</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-guilherme-de-assis-reis-95b11624b/">
