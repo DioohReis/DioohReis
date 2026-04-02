@@ -25,7 +25,7 @@
 
 <h2 align="left">🚀 About Me</h2>
 
-<img align="right" height="240" style="margin-left:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pkbXN0NmNvbHFuZmRqeWpmaW9xZW80b25reHc0cnYwZzNwaDFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif" alt="Dark Souls Bonfire"/>
+<img align="right" height="240" src="./assets/dark-souls-bonfire.gif" alt="Dark Souls Bonfire" />
 
 <p align="left">
 I am a Systems Analysis and Development student, passionate about technology, software development, and problem-solving.<br><br>
