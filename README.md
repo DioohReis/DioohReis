@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&text=Ol%C3%A1!!!%20Eu%20sou%20Diogo%20%F0%9F%8C%99&fontSize=36&fontColor=FFFFFF&fontAlign=34&fontAlignY=50&rotate=27&stroke=-&animation=scaleIn&desc=Bem%20vindos%20ao%20meu%20mundo&descSize=20&descAlign=60&descAlignY=90&textBg=false&color=gradient"  />
 </div>
-<h2 align="left">Olá!!! Eu sou Diogo :) 🌙</h2>
+<h2</h2>
 
 ###
 
