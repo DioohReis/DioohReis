@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://github.com/DioohReis">
-    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://github.com/DioohReis?tab=followers">
-    <img src="https://img.shields.io/github/followers/DioohReis?label=Seguidores&style=for-the-badge" alt="followers" />
+    <img src="https://img.shields.io/github/followers/DioohReis?label=Seguidores&style=for-the-badge" />
   </a>
   <a href="https://github.com/DioohReis?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="repositorios" />
+    <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <h2 align="left">🚀 Sobre mim</h2>
 
-<img align="right" height="260" alt="Dark Souls Bonfire" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG50bjZpMDdrbDE1dTBwNTVibXB3d2xmazFvYzdrMnljdHJxYm84MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif />
+<img align="right" height="240" style="margin-left:20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pkbXN0NmNvbHFuZmRqeWpmaW9xZW80b25reHc0cnYwZzNwaDFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif" alt="Dark Souls Bonfire"/>
 
 <p align="left">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.<br><br>
@@ -44,29 +44,29 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 <div align="center">
 
 ### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
 
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
 
 ### Banco de Dados e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 
 </div>
 
@@ -98,7 +98,7 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DioohReis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DioohReis&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioohReis&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -115,8 +115,7 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DioohReis/DioohReis/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DioohReis/DioohReis/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DioohReis/DioohReis/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/DioohReis/DioohReis/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
@@ -136,21 +135,17 @@ Atualmente, meu foco está em me desenvolver como <strong>desenvolvedor fullstac
 
 <h2 align="left">🌐 Contato</h2>
 
-<p align="left">
-Vamos nos conectar? Você pode me encontrar aqui:
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-guilherme-de-assis-reis-95b11624b/" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-guilherme-de-assis-reis-95b11624b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="mailto:diogo.gareis@gmail.com" target="_blank">
+  <a href="mailto:diogo.gareis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
   </a>
-  <a href="https://www.instagram.com/diooh_shadows/" target="_blank">
+  <a href="https://www.instagram.com/diooh_shadows/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
-  <a href="https://discord.gg/G3rxCj56" target="_blank">
+  <a href="https://discord.gg/G3rxCj56">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
 </div>
@@ -159,3 +154,4 @@ Vamos nos conectar? Você pode me encontrar aqui:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+</div>
