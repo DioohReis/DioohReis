@@ -25,7 +25,7 @@
 
 <h2 align="left">🚀 Sobre mim</h2>
 
-<img align="right" height="260" alt="Dark Souls Bonfire" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhuaXlyMTVqZXU5a3I0d2JsajlxZnIxMTU0a2pjODZvZ2N1anlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TbONGqAdpTWQW3Hz5V/giphy.gif" />
+<img align="right" height="260" alt="Dark Souls Bonfire" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1cDAyNHphaXRveTNxZXEzOGtwcWIyNG03cTZvbzVsZXQ1a3R2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TY2YdGc15h1GMnorve/giphy.gif" />
 
 <p align="left">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.<br><br>
