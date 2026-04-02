@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎯 Introdução profissional<br><br>Sou um estudante de Ciência da Computação com experiência prática em diversas linguagens e tecnologias. Durante a graduação, desenvolvi uma sólida base em Java, SQL e conceitos de programação com C++, além de aprimorar minhas habilidades com cursos complementares em JavaScript, HTML, CSS e segurança em redes com soluções Fortinet (FortiGate). Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. Tenho facilidade para trabalhar com lógica de programação, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
+<p align="left">🎯 Introdução profissional<br><br>Sou um estudante de Analise e Desenvolvimento de Sistemas com experiência prática em diversas linguagens e tecnologias. Durante a graduação, desenvolvi uma sólida base em Java, Python SQL e conceitos de programação com C++, além de aprimorar minhas habilidades com cursos complementares em JavaScript, HTML, CSS e segurança em redes com soluções Fortinet (FortiGate). Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. Tenho facilidade para trabalhar com lógica de programação, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
 
 ###
 
