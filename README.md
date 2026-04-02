@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DioohReis">
-    <img src="(https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="profile views)" />
+    <img src="https://komarev.com/ghpvc/?username=DioohReis&label=Visualizações&color=0e75b6&style=for-the-badge" alt="profile views" />
   </a>
   <a href="https://github.com/DioohReis?tab=followers">
     <img src="https://img.shields.io/github/followers/DioohReis?label=Seguidores&style=for-the-badge" alt="followers" />
@@ -25,7 +25,7 @@
 
 <h2 align="left">🚀 Sobre mim</h2>
 
-<img align="right" height="260" alt="Dark Souls Bonfire" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1cDAyNHphaXRveTNxZXEzOGtwcWIyNG03cTZvbzVsZXQ1a3R2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TY2YdGc15h1GMnorve/giphy.gif" />
+<img align="right" height="260" alt="Dark Souls Bonfire" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
 
 <p align="left">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.<br><br>
