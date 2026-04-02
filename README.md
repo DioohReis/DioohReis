@@ -5,7 +5,20 @@
 
 ###
 
-<p align="left">🎯 Introdução profissional<br><br>Sou um estudante de Analise e Desenvolvimento de Sistemas com experiência prática em diversas linguagens e tecnologias. Durante a graduação, desenvolvi uma sólida base em Java, Python SQL e conceitos de programação com C++, além de aprimorar minhas habilidades com cursos complementares em JavaScript, HTML, CSS e segurança em redes com soluções Fortinet (FortiGate). Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando expandir meus conhecimentos e aplicá-los em projetos reais. Tenho facilidade para trabalhar com lógica de programação, resolução de problemas e estou em constante evolução para me tornar um profissional versátil no mercado de TI.</p>
+<p align="left"><p align="left">
+
+🎯 <strong>Desenvolvedor Fullstack em formação</strong><br><br>
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (FIAP), com foco em desenvolvimento backend utilizando <strong>Java + Spring Boot</strong> e construção de APIs REST.
+
+Tenho experiência prática no desenvolvimento de sistemas reais, incluindo CRUDs completos, integração com banco de dados e estruturação de aplicações seguindo boas práticas.
+
+Atualmente, estou evoluindo para o desenvolvimento fullstack, integrando frontend com backend e aprimorando arquitetura de software.
+
+🚀 Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos e crescer profissionalmente.
+
+</p>
+
 
 ###
 
