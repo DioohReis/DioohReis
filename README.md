@@ -1,4 +1,6 @@
+
 <div align="center">
+  <img width="100%" height="256" alt="Dark Souls Rip GIF by BANDAI NAMCO Entertainment" src="https://github.com/user-attachments/assets/e590ec8d-7844-4bca-8e02-7b778155acae" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hello!%20I'm%20Diogo%20Reis%20🌙&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20in%20Progress&descAlignY=62&color=0:03111f,50:0a2a43,100:103b52" />
 </div>
 
