@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Systems Analysis and Development Student - FIAP</strong><br>
-  Focused on <strong>Java, Spring Boot, REST APIs and Fullstack Development</strong>
+  Focused on <strong>Python, Html, CSS, Java Script, Java, Spring Boot, REST APIs and Fullstack Development</strong>
 </p>
 
 <p align="center">
