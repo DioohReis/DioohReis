@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img width="100%" height="256" alt="Dark Souls Rip GIF by BANDAI NAMCO Entertainment" src="https://github.com/user-attachments/assets/e590ec8d-7844-4bca-8e02-7b778155acae" />
-</div>
+
 
 <h1 align="center">💻 Welcome to my GitHub</h1>
 
